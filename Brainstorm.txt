@@ -1,0 +1,4 @@
+Save URLs to separate Excel sheets in same workbook
+Have interactive interface on desktop with list of project groupings
+Call URLs by separate Python program, rather than a grouped URL (not sure if they exist)
+Hovering over project links displays list of URLs contained (separated by line, first 10 characters)
